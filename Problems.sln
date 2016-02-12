@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1636_PenaltyTime", "1636_Pe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1196_HistoryExam", "1196_HistoryExam\1196_HistoryExam.csproj", "{B186ABD8-D5C6-42B7-8361-4255324104F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1837_IsenbaevNumber", "1837_IsenbaevNumber\1837_IsenbaevNumber.csproj", "{86A89C15-7203-438D-B5C4-53C5F4D8DA3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{B186ABD8-D5C6-42B7-8361-4255324104F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B186ABD8-D5C6-42B7-8361-4255324104F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B186ABD8-D5C6-42B7-8361-4255324104F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A89C15-7203-438D-B5C4-53C5F4D8DA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A89C15-7203-438D-B5C4-53C5F4D8DA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A89C15-7203-438D-B5C4-53C5F4D8DA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A89C15-7203-438D-B5C4-53C5F4D8DA3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
