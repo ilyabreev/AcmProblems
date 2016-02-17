@@ -97,6 +97,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1723_BookOfSandro", "1723_B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2035_OneMoreTrialStage", "2035_OneMoreTrialStage\2035_OneMoreTrialStage.csproj", "{F79DBBA8-978F-4085-AE99-CEE93DE7C63E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1131_Copying", "1131_Copying\1131_Copying.csproj", "{C8299681-12BB-4DD2-B411-3DCC3BB96F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1457_ExpectedValue", "1457_ExpectedValue\1457_ExpectedValue.csproj", "{A2AFD84B-C32A-4ECB-B8A2-14720CF8425F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +295,14 @@ Global
 		{F79DBBA8-978F-4085-AE99-CEE93DE7C63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F79DBBA8-978F-4085-AE99-CEE93DE7C63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F79DBBA8-978F-4085-AE99-CEE93DE7C63E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8299681-12BB-4DD2-B411-3DCC3BB96F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8299681-12BB-4DD2-B411-3DCC3BB96F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8299681-12BB-4DD2-B411-3DCC3BB96F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8299681-12BB-4DD2-B411-3DCC3BB96F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2AFD84B-C32A-4ECB-B8A2-14720CF8425F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AFD84B-C32A-4ECB-B8A2-14720CF8425F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AFD84B-C32A-4ECB-B8A2-14720CF8425F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AFD84B-C32A-4ECB-B8A2-14720CF8425F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
